@@ -37,11 +37,6 @@ body {
     width: 100%;
 }
 
-#message
-{
-    padding-bottom: 60px;
-}
-
 .form button {
     border: 2px solid #8e44ad;
     background-color: #8e44ad;
@@ -52,3 +47,37 @@ body {
     padding: 10px;
     width: 100%;
 }
+
+
+li a {
+    width: 60px;
+    height: 60px;
+    color: aliceblue;
+    
+  }
+
+#redes-sociales{
+    background-color: #A2C9CE;
+}
+
+list-inline-item{
+    size: 30px;
+}
+
+#semanales{
+    margin-top: 20px;
+    padding-left: 0px;
+    text-shadow: #3d3939;
+}
+
+h5{
+    color: white;
+}
+
+#box {
+    display: none;
+    background-color: dark;
+    color: white;
+  }
+
+ 
