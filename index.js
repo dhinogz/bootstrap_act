@@ -18,7 +18,6 @@ if (isDark) {
   disableDarkTheme();
 }
 
-
 /**
  * Apart from toggling themes, this will also store user's theme preference in local storage.
  * So when user visits next time, we can load the same theme.
