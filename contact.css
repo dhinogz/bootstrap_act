@@ -1,83 +1,79 @@
 body {
-    align-items: center;
-    justify-content: center;
-    margin: 0;
-    min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  min-height: 100vh;
 }
 
 .container {
-    background-color: rgb(76, 79, 82);
-    box-shadow: 0 2px 5px;
-    border-radius: 5px;
-    width: 400px;
-    max-width: 100%;
+  background-color: rgb(76, 79, 82);
+  box-shadow: 0 2px 5px;
+  border-radius: 5px;
+  width: 400px;
+  max-width: 100%;
 }
 
 .form {
-    padding: 30px 40px;
+  padding: 30px 40px;
 }
 
 .form-control {
-    margin-bottom: 10px;
-    padding-bottom: 20px;
-    position: relative;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  position: relative;
 }
 
 .form-control label {
-    display: inline-block;
-    margin-bottom: 5px;
+  display: inline-block;
+  margin-bottom: 5px;
 }
 
 .form-control input {
-    border: 2px solid #3d3939;
-    border-radius: 4px;
-    display: block;
-    font-family: inherit;
-    padding: 10px;
-    width: 100%;
+  border: 2px solid #3d3939;
+  border-radius: 4px;
+  display: block;
+  font-family: inherit;
+  padding: 10px;
+  width: 100%;
 }
 
 .form button {
-    border: 2px solid #8e44ad;
-    background-color: #8e44ad;
-    border-radius: 4px;
-    color: white;
-    font-family: inherit;
-    font-size: 20px;
-    padding: 10px;
-    width: 100%;
+  border: 2px solid #8e44ad;
+  background-color: #8e44ad;
+  border-radius: 4px;
+  color: white;
+  font-family: inherit;
+  font-size: 20px;
+  padding: 10px;
+  width: 100%;
 }
-
 
 li a {
-    width: 60px;
-    height: 60px;
-    color: aliceblue;
-    
-  }
-
-#redes-sociales{
-    background-color: #A2C9CE;
+  width: 60px;
+  height: 60px;
+  color: aliceblue;
 }
 
-list-inline-item{
-    size: 30px;
+#redes-sociales {
+  background-color: #a2c9ce;
 }
 
-#semanales{
-    margin-top: 20px;
-    padding-left: 0px;
-    text-shadow: #3d3939;
+list-inline-item {
+  size: 30px;
 }
 
-h5{
-    color: white;
+#semanales {
+  margin-top: 20px;
+  padding-left: 0px;
+  text-shadow: #3d3939;
+}
+
+h5 {
+  color: white;
 }
 
 #box {
-    display: none;
-    background-color: dark;
-    color: white;
-  }
-
- 
+  display: none;
+  background-color: dark;
+  color: white;
+}
